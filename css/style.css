@@ -49,3 +49,21 @@ nav ul li a:hover{
     color: #000000;
     transition: 0.2s;
 }
+
+footer{
+    background-color: #d9d7ef;
+    position: absolute;
+    bottom: -180px;
+    height: 90px;
+    width: 100%;
+}
+
+footer img{
+  height: 60px;
+  line-height: 90px;
+  margin-left: 0;
+}
+
+footer p{
+    text-align: center;
+}
